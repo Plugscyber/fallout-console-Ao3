@@ -1,0 +1,9 @@
+#workskin .console {
+  /*This should cover both Windows and IOS font wise*/
+  font-family: Lucida Console, courier, Arial;
+  color: #00b300;
+  background-color: #001a00;
+  padding: 15px;
+  /*rounded fallout computer screen like borders*/
+  border-radius: 20px;
+}
