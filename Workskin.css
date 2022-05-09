@@ -1,9 +1,18 @@
 #workskin .console {
   /*This should cover both Windows and IOS font wise*/
   font-family: Lucida Console, courier, Arial;
+  
+  /*Green text, here are some alt close to canon colours:
+  
+  */
   color: #00b300;
+  
+  /*dark green background*/
   background-color: #001a00;
+  
+  /*makes sure the text isn't too close to the edge of the 'screen'*/
   padding: 15px;
+  
   /*rounded fallout computer screen like borders*/
   border-radius: 20px;
 }
